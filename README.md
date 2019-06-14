@@ -1,2 +1,4 @@
 # Projeto e Analise de Algoritmos (PAA)
-Implementação de um algorítimo dinâmico e guloso para resolução do problema da mochila.
+TP1 - Implementação de um algorítimo dinâmico e guloso para resolução do problema da mochila.
+TP2 - Resenha Clique.
+
